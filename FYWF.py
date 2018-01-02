@@ -2,7 +2,7 @@ import re
 
 print("""
 ---------------------
-F*CK YOUR WORD FILTER
+FYWF: F*CK YOUR WORD FILTER
 ---------------------
 Bugger-up some text to bamboozle a word filter.
 
